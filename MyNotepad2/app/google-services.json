@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "302449205584",
+    "firebase_url": "https://mynotepad2-cfc48-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mynotepad2-cfc48",
+    "storage_bucket": "mynotepad2-cfc48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302449205584:android:190c265fd0f02cd9cf8c55",
+        "android_client_info": {
+          "package_name": "com.example.mynotepad2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNzhTB4Gj-TslQesVG53-3Apz9kHOc0xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyNotePad</string>
+    <string name="email_hint">Email</string>
+    <string name="register_text_view">Register</string>
+    <string name="password_hint">Password</string>
+    <string name="register_button">Register</string>
+    <string name="already_registered">Already registered?</string>
+    <string name="login_here">Login Here</string>
+    <string name="login_text_view">Login</string>
+    <string name="login_button">Login</string>
+    <string name="not_registered">Not registered yet?</string>
+    <string name="register_here">Register here</string>
+    <string name="delete_menu_item">Delete</string>
+    <string name="select_all_menu_item">Select All</string>
+    <string name="logout_menu_item">Log out</string>
+    <string name="add_button">Add</string>
+</resources>

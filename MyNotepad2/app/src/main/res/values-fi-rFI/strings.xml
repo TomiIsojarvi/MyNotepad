@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyNotePad</string>
+    <string name="email_hint">Sähköpostiosoite</string>
+    <string name="register_text_view">Rekisteröityminen</string>
+    <string name="password_hint">Salasana</string>
+    <string name="register_button">Rekisteröidy</string>
+    <string name="already_registered">Oletko jo rekisteröitynyt?</string>
+    <string name="login_here">Kirjaudu sisään</string>
+    <string name="login_text_view">Kirjaudu sisään</string>
+    <string name="login_button">Kirjaudu</string>
+    <string name="not_registered">Oletko rekisteröitynyt?</string>
+    <string name="register_here">Rekisteröidy täällä</string>
+    <string name="delete_menu_item">Poista</string>
+    <string name="select_all_menu_item">Valitse kaikki</string>
+    <string name="logout_menu_item">Kirjaudu ulos</string>
+    <string name="add_button">Lisää</string>
+</resources>
